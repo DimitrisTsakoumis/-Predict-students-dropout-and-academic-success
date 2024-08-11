@@ -1,4 +1,4 @@
-# -Predict-students-dropout-and-academic-success
+# Predict-students-dropout-and-academic-success
 This challenge aims to address the issue of identifying students who are at risk of
 dropping out of school or struggling academically. This problem is significant as dropout
 rates can have detrimental effects on individuals' future prospects and can contribute to
